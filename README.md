@@ -3,11 +3,11 @@
 Golf Simulator Hire in Brisbane, Gold Coast, and Sunshine Coast
 Experts in delivering mobile golf simulator experiences for private parties, corporate events, weddings, fundraisers, and hospitality venues.
 
-About
+## About
 
 Mobile Golf Co is a professional event entertainment business servicing Brisbane, the Gold Coast, and the Sunshine Coast. Our goal is to provide unforgettable experiences by bringing state-of-the-art golf simulators directly to our clients—indoors or outdoors, day or night.
 
-This public repository contains:
+## This public repository contains:
 
 Website source code and design assets
 
@@ -19,26 +19,26 @@ Structured data and JSON-LD schema
 
 Automation tools and reporting logic
 
-Services We Specialise In
+## Services We Specialise In
 
-Mobile Golf Simulator Hire
+[Mobile Golf Simulator Hire]
 
-Weddings & Engagement Parties
+[Weddings & Engagement Parties](https://www.mobilegolfco.com.au/golf-simulator-hire-for-weddings)
 
-Birthday Celebrations
+[Birthday Celebrations](https://www.mobilegolfco.com.au/golf-simulator-for-parties)
 
 Bucks & Hens Nights
 
-Corporate Functions & Networking Events
+[Corporate Functions & Networking Events](https://www.mobilegolfco.com.au/golf-simulator-for-corporate-events)
 
-Community Fundraisers & School Events
+[Community Fundraisers & School Events](https://www.mobilegolfco.com.au/golf-simulator-for-fundraisers)
 
-Hospitality Venue Activations
+[Hospitality Venue Activations](https://www.mobilegolfco.com.au/golf-simulator-for-sports-bars-and-breweries)
 
-Website
+## Website
 
-Visit our live site: mobilegolfco.com.au
+Visit our live site: [mobilegolfco.com.au](mobilegolfco.com.au)
 
-License
+## License
 
 This repository contains publicly shareable code and is subject to our Terms of Use. Not intended for full redistribution or commercial reuse without permission.
